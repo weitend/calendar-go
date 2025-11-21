@@ -3,8 +3,8 @@ package calendar
 import (
 	"errors"
 
-	"github.com/weitend/event-calendar/events"
-	"github.com/weitend/event-calendar/storage"
+	"github.com/weitend/calendar-go/events"
+	"github.com/weitend/calendar-go/storage"
 )
 
 type Calendar struct {

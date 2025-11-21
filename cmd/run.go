@@ -8,8 +8,8 @@ import (
 
 	"github.com/c-bata/go-prompt"
 	"github.com/google/shlex"
-	"github.com/weitend/event-calendar/events"
-	"github.com/weitend/event-calendar/logger"
+	"github.com/weitend/calendar-go/events"
+	"github.com/weitend/calendar-go/logger"
 )
 
 type Command string

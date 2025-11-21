@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"github.com/weitend/event-calendar/reminder"
-	"github.com/weitend/event-calendar/utils"
-	"github.com/weitend/event-calendar/validators"
+	"github.com/weitend/calendar-go/reminder"
+	"github.com/weitend/calendar-go/utils"
+	"github.com/weitend/calendar-go/validators"
 )
 
 type Event struct {

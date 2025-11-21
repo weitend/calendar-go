@@ -1,4 +1,4 @@
-module github.com/weitend/event-calendar
+module github.com/weitend/calendar-go
 
 go 1.24.5
 

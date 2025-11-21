@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/weitend/event-calendar/reminder"
+	"github.com/weitend/calendar-go/reminder"
 )
 
 func (e *Event) AddReminder(message string, at time.Time, d time.Duration, notify func(msg string)) error {

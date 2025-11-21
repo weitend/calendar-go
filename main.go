@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/weitend/event-calendar/calendar"
-	"github.com/weitend/event-calendar/cmd"
-	"github.com/weitend/event-calendar/logger"
-	"github.com/weitend/event-calendar/reminder"
-	"github.com/weitend/event-calendar/storage"
+	"github.com/weitend/calendar-go/calendar"
+	"github.com/weitend/calendar-go/cmd"
+	"github.com/weitend/calendar-go/logger"
+	"github.com/weitend/calendar-go/reminder"
+	"github.com/weitend/calendar-go/storage"
 )
 
 func main() {

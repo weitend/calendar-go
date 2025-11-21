@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/weitend/event-calendar/calendar"
+	"github.com/weitend/calendar-go/calendar"
 )
 
 type Cmd struct {
